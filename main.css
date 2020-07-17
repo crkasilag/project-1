@@ -3,3 +3,23 @@ div{
     border: 3px solid aquamarine;
     padding: 30px;
   }
+section{
+  background-color: azure;
+  border: 3px solid mediumslateblue;
+  padding: 30px;
+  margin: 5px;
+}
+header{
+  background-color: plum;
+  border: 3px solid black;
+  padding: 30px;
+  margin: 5px;
+  margin-bottom: 10px;
+}
+footer{
+  background-color: plum;
+  border: 3px solid cornflowerblue;
+  padding: 30px;
+  margin: 5px;
+  margin-top: 10px;
+}
